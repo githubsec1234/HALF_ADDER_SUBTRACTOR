@@ -23,6 +23,7 @@ Sum = A’B+AB’ =A ⊕ B Carry = AB
 Figure -01 HALF ADDER
 
 **TRUTH TABLE**
+
 ![WhatsApp Image 2024-12-21 at 09 38 24_2d3875d2](https://github.com/user-attachments/assets/e71ab7e5-537f-4cd8-a381-6f4ed9bca9b0)
 
 **Half Subtractor**
@@ -37,6 +38,7 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+
 ![WhatsApp Image 2024-12-21 at 09 37 29_1f04456b](https://github.com/user-attachments/assets/f8bc31c2-297c-4600-83e3-5b2c9a18ada0)
 
 **Procedure**
